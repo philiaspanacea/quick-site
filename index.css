@@ -8,6 +8,7 @@
 }
 nav {
     height: 100px;
+    color: white;
     text-align: right;
 }
 
@@ -38,6 +39,6 @@ nav a {
 footer {
     height: 100px;
     text-align: right;
-
+    color: white;
     background-color: cadetblue;
 }
