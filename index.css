@@ -1,0 +1,43 @@
+* {
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.head {
+    background-color: cadetblue;
+}
+nav {
+    height: 100px;
+    text-align: right;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.container {
+    height: 1000px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+}
+
+.box {
+    background-color: darkseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    height: 400px;
+    width: 400px;
+}
+
+footer {
+    height: 100px;
+    text-align: right;
+
+    background-color: cadetblue;
+}
